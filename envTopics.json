@@ -1,1 +1,2 @@
-{env-type}-{env_num}-{app}-test-topicName
+{env-type}-{env_num}-{app}-firstTopic-topicName
+{env-type}-{env_num}-{app}-SecondTopic-topicName
